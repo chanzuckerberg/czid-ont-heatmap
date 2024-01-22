@@ -1,0 +1,11 @@
+tax_id,tax_level,genus_tax_id,name,common_name,category,is_phage,nt_bpm,nt_base_count,nt_count,nt_contigs,nt_contig_b,nt_percent_identity,nt_alignment_length,nt_e_value,nr_bpm,nr_base_count,nr_count,nr_contigs,nr_contig_b,nr_percent_identity,nr_alignment_length,nr_e_value,species_tax_ids,known_pathogen
+40323,2,40323,Stenotrophomonas,"",bacteria,false,9519.48,1255,2,,,94.2365,610.0,10^-234.632,,,,,,,,,[2040586],0
+2040586,1,40323,Stenotrophomonas sp. Pemsol,"",bacteria,false,9519.48,1255,2,,,94.2365,610.0,10^-234.632,,,,,,,,,,0
+32008,2,32008,Burkholderia,"",bacteria,false,15883.5,2094,2,,,94.3035,1046.5,10^-253.799,,,,,,,,,[1207504],0
+1207504,1,32008,Burkholderia pseudomultivorans,"",bacteria,false,15883.5,2094,2,,,94.3035,1046.5,10^-253.799,,,,,,,,,,0
+1279,2,1279,Staphylococcus,"",bacteria,false,9064.36,1195,2,,,97.6455,563.0,10^-292.518,,,,,,,,,[1280],1
+1280,1,1279,Staphylococcus aureus,"",bacteria,false,9064.36,1195,2,,,97.6455,563.0,10^-292.518,,,,,,,,,,1
+561,2,561,Escherichia,"",bacteria,false,40459.7,5334,5,,,95.2886,1049.0,10^-255.946,,,,,,,,,[562],1
+562,1,561,Escherichia coli,"",bacteria,false,40459.7,5334,5,,,95.2886,1049.0,10^-255.946,,,,,,,,,,1
+286,2,286,Pseudomonas,"",bacteria,false,3504.38,462,1,,,93.002,443.0,10^-247.87,,,,,,,,,[287],0
+287,1,286,Pseudomonas aeruginosa,"",bacteria,false,3504.38,462,1,,,93.002,443.0,10^-247.87,,,,,,,,,,0
